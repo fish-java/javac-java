@@ -17,7 +17,7 @@ $ tree
 ```
 $ javac -cp ./OTHER:. Main.java
 ```
-**_ windows 下请将分隔符 : 换成 ; _**
+**windows 下请将分隔符 : 换成 ;**
 通过cp指明所有依赖的classpath，记得不要忘了当前文件夹，因为指明cp会覆盖默认设置
 
 执行时引用多个
