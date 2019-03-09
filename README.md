@@ -65,5 +65,6 @@ Java中的class文件有三种：
 - [package](./package)
 - [classes](./classes)
 - [multip](./multip)
+- [package2](./package2)
 - [output](./output)
 - [jar](./jar)
